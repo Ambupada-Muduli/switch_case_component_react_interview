@@ -1,0 +1,2 @@
+# switch_case_component_react_interview
+Created with CodeSandbox
